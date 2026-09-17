@@ -16,7 +16,7 @@ Imaging Spectrometer (AVIRIS) over the Cuprite mining district in Nevada, USA.
 We use the 1997 Cuprite reflectance product (`f970619t01p02r02`) in our
 experiments.
 
-- **Official download:** [NASA/JPL AVIRIS Cuprite](https://aviris.jpl.nasa.gov/data/free_data.html)
+- **Official download:** [NASA/JPL AVIRIS Cuprite](https://aviris.jpl.nasa.gov/data/free_data.html) (https://aviris.jpl.nasa.gov/data/free_data.html)
 - **Data product:** `f970619t01p02r02`
 - **Number of pixels used:** 47,500
 - **Number of endmembers:** 14
