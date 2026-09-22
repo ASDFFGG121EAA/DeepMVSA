@@ -20,3 +20,11 @@ experiments.
 - **Data product:** `f970619t01p02r02`
 - **Number of pixels used:** 47,500
 - **Number of endmembers:** 14
+
+## License and Copyright
+
+ All Rights Reserved.
+
+This repository is provided for academic research and educational purposes only.
+
+Any commercial use, redistribution for commercial purposes, integration into commercial products or services, or other use intended for commercial advantage is prohibited without prior written permission from the copyright holder.
