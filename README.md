@@ -28,3 +28,14 @@ experiments.
 This repository is provided for academic research and educational purposes only.
 
 Any commercial use, redistribution for commercial purposes, integration into commercial products or services, or other use intended for commercial advantage is prohibited without prior written permission from the copyright holder.
+
+
+## Citation
+
+The methodology and code in this repository are associated with the following paper:
+
+**Scalable Minimum-Volume Simplex Estimation with Non-asymptotic Analysis**
+
+This paper has been submitted to The Annals of Statistics (AOS) and is also available on arXiv.
+
+If you use this code, methodology, or any part of this repository in your academic research, publications, or other scholarly work, please cite our paper.
